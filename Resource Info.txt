@@ -1,0 +1,22 @@
+FONTS
+	FONT(Font Weight, Size, Line Height, Letter Spacing)
+Desktop {
+	Nuninto Sans(ExctraBold, 24, auto, 0px)
+	Nuninto Sans(Regular, 14, 20, 0px)
+	Nuninto Sans(SemiBold, 16, auto, 0px)
+	Nuninto Sans(ExtraBold, 18, 26, 0px)
+	Nuninto Sans(SemiBold, 14, 16, 0px)
+	Nuninto Sans(Light, 14, 16, 0px)
+}
+Mobile {	
+	Nuninto Sans(ExctraBold, 14, 20, 0px)
+	Nuninto Sans(SemiBold, 12, auto, 0px)
+	Nuninto Sans(Regular, 12, 20, 0px)
+	Nuninto Sans(Regular, 12, 16, 0px)
+}
+		COLORS
+#111517
+#848484
+#fafafa
+#202c36
+#2b3844
