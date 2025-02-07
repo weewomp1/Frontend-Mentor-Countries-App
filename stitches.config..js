@@ -27,7 +27,7 @@ export const {
       black300: '#848484'
     },
     fonts: {
-        NunintoSans: ''
+        NunintoSans: 'Nunito Sans'
     }
   },
   media: {
