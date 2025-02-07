@@ -32,7 +32,7 @@ export const {
   },
   media: {
     desktop: '(min-width: 720px)',
-    mobile: '(min-width: 640px)',
+    mobile: '(min-width: 0px)',
   },
   utils: {
     marginX: (value) => ({ marginLeft: value, marginRight: value }),
