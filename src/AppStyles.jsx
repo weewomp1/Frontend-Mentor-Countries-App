@@ -25,3 +25,11 @@ export const CountriesContainer = styled('div', {
    padding: '1rem',
    background: '$grey300',
 })
+
+export const SettingsContainer = styled('div', {
+   width: '100vw',
+   height: 'min-content',
+   paddingLeft: '1rem',
+   paddingRight: '1rem'
+
+})

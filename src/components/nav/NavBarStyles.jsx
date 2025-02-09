@@ -29,5 +29,8 @@ export const DarkModeButton = styled('button',{
     overflow: 'visible',
     display: 'flex',
     flexDirection: 'row',
-    gap: '.5rem'
+    gap: '.5rem',
+    '&:hover': {
+        textDecoration: 'underline'
+    }
 })

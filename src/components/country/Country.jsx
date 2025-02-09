@@ -1,5 +1,7 @@
-export const Country = () => {
-
+export const Country = (country) => {
+    return(
+        <></>
+    )
 }
 
 export default Country
